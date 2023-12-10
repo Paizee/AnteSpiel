@@ -1,16 +1,17 @@
-# antespiel
+# Wer-bin-ich
+Ich habe ein Spiel für ein Unterrichtsfach erstellt. Das Spiel orientiert sich an dem bekannten Spiel "Wer bin ich?" mit Fragen und Begriffen aus dem Unterrichtsfach. Man kann entweder den voreingestellten benutzen oder man hostet selber einen. 
 
-A new Flutter project.
+![image](https://github.com/Paizee/Wer-bin-ich/assets/99689902/b11acdb3-11fe-4d99-81bb-45a007fd0c9e)
 
-## Getting Started
+#Lobbys erstellen
+![image](https://github.com/Paizee/Wer-bin-ich/assets/99689902/e10b7cb4-5520-4188-b6f7-389bdc941aa0)
 
-This project is a starting point for a Flutter application.
+#Lobbys beitreten
+![image](https://github.com/Paizee/Wer-bin-ich/assets/99689902/b7283b30-d4a0-494c-83a1-87cad321412b)
 
-A few resources to get you started if this is your first Flutter project:
+#Warteraum
+![image](https://github.com/Paizee/Wer-bin-ich/assets/99689902/712b3c01-06b9-429e-b56b-479fda514896)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#Spiel
+![image](https://github.com/Paizee/Wer-bin-ich/assets/99689902/870fd39a-20c7-447f-b5f4-deb1507f720e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
