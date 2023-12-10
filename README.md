@@ -1,17 +1,21 @@
 # Wer-bin-ich
 Ich habe ein Spiel für ein Unterrichtsfach erstellt. Das Spiel orientiert sich an dem bekannten Spiel "Wer bin ich?" mit Fragen und Begriffen aus dem Unterrichtsfach. Man kann entweder den voreingestellten benutzen oder man hostet selber einen. 
 
-![image](https://github.com/Paizee/Wer-bin-ich/assets/99689902/b11acdb3-11fe-4d99-81bb-45a007fd0c9e)
+![image](https://github.com/Paizee/AnteSpiel/assets/99689902/8c30b934-6b74-4510-8b30-2c393374b74f)
+
 
 # Lobbys erstellen
-![image](https://github.com/Paizee/Wer-bin-ich/assets/99689902/e10b7cb4-5520-4188-b6f7-389bdc941aa0)
+![image](https://github.com/Paizee/AnteSpiel/assets/99689902/694e1b93-a75a-4251-a259-5af94021abe0)
 
 # Lobbys beitreten
-![image](https://github.com/Paizee/Wer-bin-ich/assets/99689902/b7283b30-d4a0-494c-83a1-87cad321412b)
+![image](https://github.com/Paizee/AnteSpiel/assets/99689902/84e6acb8-ed9b-457a-95ce-a8d163c3858b)
+
 
 # Warteraum
-![image](https://github.com/Paizee/Wer-bin-ich/assets/99689902/712b3c01-06b9-429e-b56b-479fda514896)
+![image](https://github.com/Paizee/AnteSpiel/assets/99689902/ca7ebc82-a510-4d0c-94d1-9e0f57477f40)
+
 
 # Spiel
-![image](https://github.com/Paizee/Wer-bin-ich/assets/99689902/870fd39a-20c7-447f-b5f4-deb1507f720e)
+![image](https://github.com/Paizee/AnteSpiel/assets/99689902/7a5e52db-737c-4008-b5a0-72024a9d68fe)
+
 
